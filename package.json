@@ -5,7 +5,8 @@
   "main": "gatsby-config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "gatsby develop"
+    "dev": "gatsby develop",
+    "build": "gastby build"
   },
   "author": "",
   "license": "ISC",
@@ -18,6 +19,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-netlify-identity": "^0.2.3",
-    "react-netlify-identity-widget": "^0.2.7"
+    "react-netlify-identity-widget": "^0.2.7",
+    "yarn": "^1.22.4"
   }
 }
